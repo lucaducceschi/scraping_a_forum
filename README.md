@@ -1,6 +1,6 @@
 # scraping_a_forum
 
-The notebook is an exercice on scraping and some basic python elements (dictionaries, functions, etc.). The idea is to extract (scrape) some text and some user information from a forum, in this case: https://forum.alfemminile.com/forum/.
+Here is an exercice on scraping in Python3.x (using BeautifulSoup) and some basic on Python elements (dictionaries, functions, etc.). The idea is to extract (scrape) some text and some user information from a forum, in this case: https://forum.alfemminile.com/forum/.
 
 There are some details that I still need to take care of:
  - cleaning posts (sometimes javascript or other bits of html end up in the text)
